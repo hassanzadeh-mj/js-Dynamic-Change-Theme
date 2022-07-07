@@ -8,6 +8,7 @@ Color.addEventListener("click", (event) => {
     document.documentElement.style.setProperty( "--theme-color",btnColor )
 })
 })
+
 // in react js
 // Colors.forEach(Color=> {
 //     Color.addEventListener("click", (event) => {
